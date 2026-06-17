@@ -1,2 +1,15 @@
-# Learn-Java
-This repository contains basic programs and coding problems that I have solved on HackerRank and LeetCode. I started this repository to keep track of my progress, maintain a record of the problems I have solved, and review my learning journey over time.
+# Coding Practice Repository
+
+This repository contains solutions to programming problems from HackerRank and LeetCode, along with basic programming exercises.
+
+## Purpose
+- Track my coding practice progress.
+- Maintain a record of solved problems.
+- Improve problem-solving and programming skills.
+- Review previously solved questions for revision.
+
+## Platforms
+- HackerRank
+- LeetCode
+
+This repository is intended for learning, practice, and progress tracking.
